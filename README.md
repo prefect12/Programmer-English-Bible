@@ -24,7 +24,9 @@
 ## 准备阶段
 
 ### 英语准备
-> with out gramma, little can be conveyed, but without vocabulary, little can be conveyed.
+> without gramma, little can be conveyed, but without vocabulary, little can be conveyed.
+
+
 
 ### 算法题准备
 
