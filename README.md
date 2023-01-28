@@ -13,7 +13,7 @@
 - 英语是通往零一个新的世界的大门
 - 获得更多公司投递机会
 - 更容易进入外企
-- remote工作
+- 找到remote工作
 
 ### [英语学习基础](/Language/EnglishBasic.md)
 ---
