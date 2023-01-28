@@ -4,15 +4,13 @@
 ---
 ## 核心概要
 
-> “诸君功夫，最不可助长。上智绝少，学者无超入圣人之理。一起一伏，一进一退，自是功夫节次。”\
+> *“诸君功夫，最不可助长。上智绝少，学者无超入圣人之理。一起一伏，一进一退，自是功夫节次。”*\
 > -- 《传习录》
 <br>
 
 __在学习之前以及过程中一定要牢记以下几点,方可事半功倍,穿越万难,达到彼岸.__
 
 - **学习没有捷径!速成绝无可能!**
-  
-- 牢记自己的目标,为什么你会打开这个repo,你想过上什么样的人生.
   
 - 牢记学英语的**目的**,语言是手段不是目的,切记不要颠倒.
   
@@ -22,15 +20,17 @@ __在学习之前以及过程中一定要牢记以下几点,方可事半功倍,�
 
 ---
 ## 学习方法
-因为英语是一门工具,对于学习任何工具最好的方法就是使用,别无他法.但是我们目前最缺少的就是学习英语的环境,学习方法一言蔽之就是尽可能的去用英语,不要把语言学习当作痛苦的事,而是当成再学习如何用锤子,找到第一次用锤子敲钉子的快乐,相信我,你不知道我第一次发现自己能独立的阅读一些英文技术书籍和发现自己能用英文沟通的时候有多兴奋.
+因为英语是一门工具,对于学习任何工具最好的方法就是使用,别无他法.但是我们目前最缺少的就是学习英语的环境,学习方法一言蔽之就是尽可能的去用英语,不要把语言学习当作痛苦的事,而是当成在学习如何用锤子,找到第一次用锤子敲钉子的快乐,相信我,你不知道我第一次发现自己能独立的阅读一些英文技术书籍和发现自己能用英文沟通的时候有多兴奋.
 
 
 ## 单词
 
-> Without grammar, little can be conveyed, but without vocabulary, nothing can be conveyed.
+> *Without grammar, little can be conveyed, but without vocabulary, nothing can be conveyed.*
 <br>
 
-单词不是背出来,而是用出来. 在之前的雅思备考过程中认识了一个在外校上学的女初中生,背单词非常的快,我问她究竟是怎么背单词的,她说她的方法是**不刻意背单词**,但是在后续频繁的阅读和使用的过程中就掌握了单词的意思和读音. 我个人的意见是在不需要通过英语考试的情况下没有必要背单词的拼写,只需要根据读音去拼写单词,之后软件就会帮你自行纠正.__至于生活在中国怎么找到使用英语的环境就需要自己去创造__, 例如自己用单词造句,加入群聊用英语进行聊天,把手上的软件,系统都改成英文,熟练使用英文环境进行搜索, 阅读英文新闻, 习惯性地实用Google和stackoverflow进行搜索. 这些方法都可以尝试.
+单词不是背出来,而是用出来. 在之前的雅思备考过程中认识了一个在外校上学的女初中生,背单词非常的快,我问她究竟是怎么背单词的,她说她的方法是**不刻意背单词**,但是在后续频繁的阅读和使用的过程中就掌握了单词的意思和读音. 
+
+我个人的意见是在不需要通过英语考试的情况下没有必要背单词的拼写,只需要根据读音去拼写单词,之后软件就会帮你自行纠正.__至于生活在中国怎么找到使用英语的环境就需要自己去创造__, 例如自己用单词造句,加入群聊用英语进行聊天,把手上的软件,系统都改成英文,熟练使用英文环境进行搜索, 阅读英文新闻, 习惯性地实用Google和stackoverflow进行搜索. 这些方法都可以尝试.
 
 ### 可实践的技巧
 - 把上手的设备切换成英文系统
@@ -48,7 +48,39 @@ __在学习之前以及过程中一定要牢记以下几点,方可事半功倍,�
 
 ---
 ## 语法
-语法这玩意,其实不是很影响你表达你想说的话的意思,就算你说的话语法有问题大概率意思也能被才出来,但是如果你语法不好native speaker一眼就能看出来你语法不好,在口语对话的时候其实native speaker也会犯一些语法错误. 在写作过程中也需要
+语法的本质就是对词语以一定规则进行排序和变形,变成可以表达你的意思并且被人看懂的形式,就像数学公式或者编程语言一样.
+
+语法这玩意,其实不是很影响你表达你想说的话的意思,对于软件工程师来说,就算只用基础语法和词汇也能把你想要的意思表达出来.就算你说的话语法有问题大概率意思也能被猜出来,但是如果你语法不好native speaker一眼就能看出来你语法不好,在口语对话的时候其实native speaker也会犯一些语法错误. 如果是在工作和生活中writing部分,其实有很多工具去帮你检查语法以及表达,例如[Grammrly](https://app.grammarly.com/)或者[OuillBot](https://quillbot.com/grammar-check).
+
+### 可实践的技巧
+- 用学会的语法进行造句,把你造的句子放到语法检查中看是否有错误
+- 多用英语表达,无论是写作还是口语
+
+
+
+### 资料
+
+[多邻国](https://www.duolingo.com/)
+
+可能不是一个好的背单词软件,但却是一个不错的语法练习软件,可以在场景中学习语法,对我效果很好.
+- 多邻国可以跳关,不需要一关一关打到后面,可以直接选择自己薄弱的语法进行练习.
+- 学习某个语法过后进行造句复习.
+
+<br>
+
+[English Grammar In Use](/Resources/Books/Louise%20Hashemi%2C%20Raymond%20Murphy%20-%20English%20Grammar%20in%20Use%20Supplementary%20Exercises%20Book%20with%20Answers_%20To%20Accompany%20English%20Grammar%20in%20Use%20Fifth%20Edition-Cambridge%20University%20Press%20(2019).pdf)
+
+一本非常好的英语语法书,我之前在学习英语的时候老师就推荐这本书,我在这里推荐给大家,非常适合0基础对语法进行学习.
+- 由浅入深教学语法.
+- 属于英语教程级别的书,非常适合新手,但是全英文,需要懂的基础单词.
+
+<br>
+
+[我的第一本英语语法书]()
+
+这算是我的英语语法启蒙书籍,用漫画的形式生动形象的讲解了各种语法.
+- 阅读起来比较轻松,适合闲暇时翻阅.
+- 没有练习题,最好自己给自己设置一些题目.
 
 ---
 ## 如何说英语
@@ -120,21 +152,21 @@ __本人不对这些方法的教学质量以及是否有效进行负责, 这里�
 
 ## 语法检查类
 
-### [Grammrly](https://app.grammarly.com/)
+[Grammrly](https://app.grammarly.com/)
 这是一个语法检查网站,主要用来在书写过程中做一些语法检查,可以使用小程序,网页版,chrome插件,非常方便,强烈推荐.
 
----
+<br>
 
-### [OuillBot](https://quillbot.com/grammar-check)
+[OuillBot](https://quillbot.com/grammar-check)
 
 QuillBot is a paraphrasing and summarizing tool that helps millions of students and professionals cut their writing time by more than half using state-of-the-art AI to rewrite any sentence, paragraph, or article.
 
----
-### [ChatGPT](https://openai.com/blog/chatgpt/)
+<br>
+
+[ChatGPT](https://openai.com/blog/chatgpt/)
 
 We’ve trained a model called ChatGPT which interacts in a conversational way. The dialogue format allows ChatGPT to answer follow-up questions, admit mistakes, challenge incorrect premises, and reject inappropriate requests. ChatGPT is a sibling model to InstructGPT, which is trained to follow instructions in a prompt and provide a detailed response.
 
----
 
 ## 快捷工具类
 
