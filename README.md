@@ -39,12 +39,10 @@
 - 地理套利
 - relocation(润)机会
 
-### [面试准备](/Job/Preparation.md)
+### [Remote指南](/Remote/Remote.md)
 
 ---
 
-
----
 ### [Q&A](./job/QA.md)
 
 任何人都可以通过PR贡献此文档,,请通过[模板](/Resources/template.md)进行贡献,本repo接受一切与英语,外企求职,remote机会,内推机会相关的内容,包括但不限于英文书籍推荐,播客推荐,youtube频道推荐,求职网站,remote网站,内推信息等.
