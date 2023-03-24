@@ -49,7 +49,7 @@
 任何人都可以通过PR贡献此文档,,请通过[模板](/Resources/template.md)进行贡献,本repo接受一切与英语,外企求职,remote机会,内推机会相关的内容,包括但不限于英文书籍推荐,播客推荐,youtube频道推荐,求职网站,remote网站,内推信息等.
 
 ### 觉得本repo有用请关注公众号, 本开源书是一个长期项目,会持续更新,公众号内会推荐英语学习和外企相关内容,同样本书更新也会推送.
-[![我的公众号](./Resources/images/publicQC.png)
+![我的公众号](./Resources/images/publicQC.png)
 
 ---
 ## TODO
