@@ -53,13 +53,18 @@
 ![我的公众号](./Resources/Images/publicQC.png)
 
 ---
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=prefect12/Programmer-English-Bible)](https://star-history.com/#eliaszon/Programmers-Overseas-Job-Interview-Handbook&Date)
+
 ## TODO
 - [x] 贡献模版
-- [ ] 书单
-- [ ] 英语基础
+- [x] 书单
+- [x] 英语基础
   - [x] 语法
-  - [ ] 口语
-  - [ ] 听力
+  - [x] 口语
+  - [x] 听力
 - [ ] 找工作准备
   - [ ] 算法题
   - [ ] 简历/CV
